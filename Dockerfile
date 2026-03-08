@@ -22,7 +22,7 @@ RUN npm ci --production
 
 COPY --from=builder /app/dist/ ./dist/
 COPY content/ ./content/
-COPY src/ascii/ ./src/ascii/
+COPY src/ascii/ ./dist/ascii/
 
 # Generate host key at build time
 RUN apk add --no-cache openssh-keygen && \
