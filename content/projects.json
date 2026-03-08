@@ -1,0 +1,95 @@
+[
+  {
+    "category": "Experience",
+    "projects": [
+      {
+        "name": "Tech Lead - ACES (Dec 2024 - Present)",
+        "description": "Leading technical initiatives and coordinating cybersecurity workshops, coding bootcamps, and competitive programming events for 200+ computer science students. Managing technical resources, lab setups, and equipment for departmental events and Hackathons.",
+        "techStack": ["Leadership", "Event Management", "Technical Setup"],
+        "githubUrl": "CUSAT, Kochi"
+      },
+      {
+        "name": "Cybersecurity Analyst Intern - ElevateLabs (May 2025 - July 2025)",
+        "description": "Performed vulnerability scans using Nessus and OpenVAS. Captured and analyzed live network traffic using Wireshark and tcpdump to identify anomalies. Executed penetration testing tasks including reconnaissance, enumeration, and exploitation phases using Kali Linux.",
+        "techStack": ["Nessus", "OpenVAS", "Wireshark", "Kali Linux"],
+        "githubUrl": "Remote"
+      },
+      {
+        "name": "Open Source Contributor - SSOC (May 2024)",
+        "description": "Participated in open source development program focusing on C++ and C programming projects (memory allocation bug fixtures). Collaborated with international developers on analytical problem-solving.",
+        "techStack": ["C++", "C", "Open Source", "Git"],
+        "githubUrl": "Social Summer of Code"
+      },
+      {
+        "name": "Team Lead - Tech Fest Dhishna (Feb 2024)",
+        "description": "Led the organization and coordination for one of the largest inter-college tech events in Kerala.",
+        "techStack": ["Team Leadership", "Event Coordination"],
+        "githubUrl": "CUSAT, Kochi"
+      }
+    ]
+  },
+  {
+    "category": "Projects",
+    "projects": [
+      {
+        "name": "Bug Bounty Hunter (Dec 2025)",
+        "description": "Built an automated reconnaissance platform combining deterministic security checks (SQLi, XSS) with an LLM Logic Analyzer (Gemini) to detect complex business logic flaws. Implemented specialized agents for Subdomain Discovery and Endpoint Mapping. Developed an automated PoC Generator that produces validated exploit scripts.",
+        "techStack": ["Python", "Flask", "Gemini API", "Agentic Architecture"],
+        "githubUrl": "AI Security Analyst platform"
+      },
+      {
+        "name": "ARGUS - PPE Detection System (Feb 2024)",
+        "description": "Built a real-time PPE detection system using computer vision to detect safety gear violations for worker surveillance. Presented and approved by BPCL and HP. Integrated with a web-app and notification system for real-time alerts.",
+        "techStack": ["Python", "YOLOv8", "Roboflow", "Django", "Computer Vision"],
+        "githubUrl": "Winner - Code reCET Hackathon"
+      },
+      {
+        "name": "DataBot - Natural Language Database Access (2024)",
+        "description": "Built a tool to query and manage databases using natural language prompts via Gemini LLM.",
+        "techStack": ["Langchain", "Gemini API", "Flask", "LLMs"],
+        "githubUrl": "Database Assistant"
+      },
+      {
+        "name": "Local Lab for SIEM & Pentesting (2024)",
+        "description": "Setup offline lab for Pentesting Vulnerable machines, WAZUH for SIEM, platforms like Vulnhub. Performed log analysis using Wazuh, traffic capture and analysis using Wireshark for DNS, TCP/IP, and HTTP protocols.",
+        "techStack": ["Kali Linux", "Wireshark", "Nmap", "Wazuh"],
+        "githubUrl": "SIEM Lab"
+      }
+    ]
+  },
+  {
+    "category": "Hackathons & Awards",
+    "projects": [
+      {
+        "name": "12x Streak State and National Hackathon Winner",
+        "description": "Consistently placed and won in multiple state and national level hackathons.",
+        "techStack": ["Competitive Programming", "Rapid Prototyping"],
+        "githubUrl": "Various Hackathons"
+      },
+      {
+        "name": "Winner - Code reCET, CET Trivandrum",
+        "description": "Won the Code reCET hackathon for the ARGUS Project (PPE Detection System).",
+        "techStack": ["Computer Vision", "Python"],
+        "githubUrl": "CET Trivandrum"
+      },
+      {
+        "name": "Make-a-ton 7.0 ''Change Maker'' track winner",
+        "description": "Organised by MLH. Won the Change Maker track.",
+        "techStack": ["Hackathon", "MLH"],
+        "githubUrl": "MLH"
+      },
+      {
+        "name": "Winner - Huddle Global Hackathon 2025",
+        "description": "Organized by Kerala Startup Mission (KSUM).",
+        "techStack": ["Hackathon", "KSUM"],
+        "githubUrl": "Huddle Global"
+      },
+      {
+        "name": "Other Notable Wins",
+        "description": "Winner - INKRIT 2.0, 3.0 (MES College Aluva), Winner - HACKnTech (BMCE College Ernakulam) for VR classroom project.",
+        "techStack": ["VR", "Innovation"],
+        "githubUrl": "Multiple Venues"
+      }
+    ]
+  }
+]

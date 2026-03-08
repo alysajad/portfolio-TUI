@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Education & Certifications",
+    "posts": [
+      {
+        "title": "B.Tech in Computer Science Engineering",
+        "body": "Cochin University of Science and Technology (CUSAT)\nKochi, India\nJune 2023 - Present\nGPA: 8.0\n\nActive involvement as Team Lead for Tech Fest Dhishna and College Cultural Fest Sargam. Also completed IEDC Innovation & Design Bootcamp Phase II."
+      },
+      {
+        "title": "Cybersecurity Certifications",
+        "body": "• Google Cybersecurity Analyst Certificate (Coursera) - SIEM, SOC tools, Network Security\n• Certified Cybersecurity Educator Professional (CCEP) - Red Team Leaders\n• Tata Group - Cybersecurity Analyst Job Simulation (Forage)\n• Forage Cybersecurity Internships (Visa, AIG, Datacom, Airindia)\n• IT Security: Defense against the digital dark arts (Coursera/Google)\n• Currently pursuing: CEH, SAL1 from tryhackme"
+      }
+    ]
+  },
+  {
+    "category": "Skills & Interests",
+    "posts": [
+      {
+        "title": "Technical Skills Profile",
+        "body": "Programming Languages:\nPython, C, C++, Bash, SQL, Django, RestfulAPI\n\nCybersecurity Tools:\nWireshark, Nmap, Wazuh, SPLUNK, Metasploit, Nessus, OpenVAS, Wireless Vulnerability tools, JOHN, HASHCAT\n\nOperating Systems:\nLinux (Kali, Ubuntu), Windows\n\nOther Skills:\nCritical Thinking, Networking, Strong communication skills, Leadership qualities, Latex, MS Office"
+      },
+      {
+        "title": "Languages & Hobbies",
+        "body": "Languages spoken:\nEnglish, Malyalam (can understand), Urdu, Hindi\n\nHobbies and Interests:\n• Cybersecurity Testing\n• CTFs (Capture The Flag competitions)\n• Soccer\n• Open Source Contributions"
+      }
+    ]
+  }
+]

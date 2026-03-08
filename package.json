@@ -1,0 +1,39 @@
+{
+  "name": "terminal-portfolio",
+  "version": "1.0.0",
+  "description": "SSH Terminal Portfolio — interactive TUI portfolio accessible via SSH",
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsx src/server.ts",
+    "generate-key": "ssh-keygen -t rsa -b 4096 -f host_key -N \"\""
+  },
+  "keywords": [
+    "ssh",
+    "portfolio",
+    "terminal",
+    "tui",
+    "ink"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.10.0",
+    "ink": "^6.8.0",
+    "ink-link": "^5.0.0",
+    "ink-select-input": "^6.2.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "ssh2": "^1.17.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/ssh2": "^1.15.5",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

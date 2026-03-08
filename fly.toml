@@ -1,0 +1,22 @@
+app = "terminal-portfolio"
+primary_region = "sjc"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[[services]]
+  internal_port = 22
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 22
+
+  [services.concurrency]
+    type = "connections"
+    hard_limit = 100
+    soft_limit = 80
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256
